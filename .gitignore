@@ -2,3 +2,6 @@ venv/
 .venv
 venv
 .env
+new_venv
+new_venv/
+.new_venv

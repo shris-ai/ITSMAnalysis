@@ -17,7 +17,7 @@ import numpy as np
 import pymongo
 
 from itsm_analysis.exception.exception import ITSMAnalysisException
-from itsm_analysis.logging.logger import logging
+from itsm_analysis.logging_config.logger import logging
 
 class ITSMDataExtract():
     def __init__(self):

@@ -15,7 +15,15 @@ dependencies = [
     "hatchling",
     "pip-tools",
     "pymongo[srv]",
-    "certifi"
+    "certifi",
+    "scikit-learn",
+    "feast",
+    "pyarrow",
+    "langgraph",
+    "langchain",
+    "langchain-core",
+    "pydantic",
+    "flask"
 ]
 
 [build-system]

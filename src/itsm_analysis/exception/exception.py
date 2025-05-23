@@ -1,6 +1,6 @@
 import sys
 import os
-from itsm_analysis.logging import logger
+from itsm_analysis.logging_config import logger
 #from logging import logger
 
 class ITSMAnalysisException(Exception):
